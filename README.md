@@ -7,7 +7,7 @@
 Welcome to my Github page. It's a pleasure to meet you!
 
 I've navigated through various roles to where I am today:
-### Data Science | Data Analytics | Business Intelligence | Data engineering | Project Management
+### Data Science | Data Analytics | Business Intelligence | Data engineering
 
 ## 🛠️ Featured Projects
   
