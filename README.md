@@ -17,8 +17,8 @@ I've navigated through various roles to where I am today:
 #### Customer Segmentation of Bank Telemarketing | _Python, Clustering Model, Scikit-learn_
 - Conducted customer segmentation by K-Modes clustering algorithm - [view](https://github.com/joeywwwu/Customer-Segmentation-of-Bank-Telemarketing)
 
-#### Loan Default Prediction of Landing Club | _Python, Predictive Model, Scikit-learn_
-- Implemented and evaluated 5 models including Logistic Regression, Random Forest, KNN, and SVM to predict default customers. - [view](https://github.com/joeywwwu/Loan-Default-Prediction-of-Landing-Club)
+#### [Loan Default Prediction of Landing Club](https://github.com/joeywwwu/Loan-Default-Prediction-of-Landing-Club) | _Python, Predictive Model, Scikit-learn_
+- Analyzed Lending Club data to predict borrower repayment and manage loan risk using 5 machine learning models to determine if clients would fully pay or default. Identifying defaulting borrowers with these models helps reduce lender losses.
 
 These projects represent part of my journey at the intersection of data science, business intelligence, and strategic insights.
 
