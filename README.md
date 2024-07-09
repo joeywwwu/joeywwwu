@@ -11,8 +11,14 @@ I've navigated through various roles to where I am today:
 
 ## 🛠️ Featured Projects
   
-#### xxx
-- xxx  - [view](https://github.com/xxx)
+#### Shopping Mall Sales Dashboard | _Tableau_  
+- Developed a comprehensive sales dashboard to analyze retail performance across 9 shopping malls in Istanbul, provides insights into visitor counts and sales trends across malls and product categories. - [view](https://github.com/joeywwwu/Shopping-Mall-Sales-Dashboard?tab=readme-ov-file)
+
+#### Customer Segmentation of Bank Telemarketing | _Python, Clustering Model, EDA, Scikit-learn_
+- Conducted customer segmentation by K-Modes clustering algorithm - [view](https://github.com/joeywwwu/Customer-Segmentation-of-Bank-Telemarketing)
+
+#### Loan Default Prediction of Landing Club | _Python, Predictive Model, EDA, Scikit-learn_
+- Implemented and evaluated 5 models including Logistic Regression, Random Forest, KNN, and SVM to predict default customers. - [view](https://github.com/joeywwwu/Loan-Default-Prediction-of-Landing-Club)
 
 These projects represent part of my journey at the intersection of data science, business intelligence, and strategic insights.
 
