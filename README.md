@@ -17,6 +17,8 @@ I've navigated through various roles to where I am today:
 #### [Green Development Planner Dashboard](https://github.com/joeywwwu/Green-Development-Planner) | _Python, Plotly Dash_
 - Developed a dashboard to evaluates global potential for renewable energy development projects, providing a clear global overview of energy consumption, potential for renewables, and current investment flows.
 
+#### [Quantitative Analysis of Pizza Market](https://github.com/joeywwwu/Quantitative-Analysis-of-Pizza-Market) | _SPSS, Statistical analysis, Regression Analysis_
+- Conducts a quantitative analysis of consumer trends and perceptions in the U.S. pizza market. Used t-tests and ANOVA on 200 survey responses to examine major purchase drivers, demographics, and key business metrics, and identified underperforming brands through advanced regression modeling and proposed marketing strategies to boost sales.
 
 #### [Loan Default Prediction of Landing Club](https://github.com/joeywwwu/Loan-Default-Prediction-of-Landing-Club) | _Python, Predictive Model, Scikit-learn_
 - Analyzed Lending Club data to predict borrower repayment and manage loan risk using 5 machine learning models to determine if clients would fully pay or default. Identifying defaulting borrowers with these models helps reduce lender losses.
