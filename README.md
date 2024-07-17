@@ -14,6 +14,10 @@ I've navigated through various roles to where I am today:
 #### [Shopping Mall Sales Dashboard](https://github.com/joeywwwu/Shopping-Mall-Sales-Dashboard?tab=readme-ov-file) | _Tableau_  
 - Developed a comprehensive sales dashboard to analyze retail performance across 9 shopping malls in Istanbul, provides insights into visitor counts and sales trends across malls and product categories. 
 
+#### [Green Development Planner Dashboard](https://github.com/joeywwwu/Green-Development-Planner) | _Python, Plotly Dash_
+- Developed a dashboard to evaluates global potential for renewable energy development projects, providing a clear global overview of energy consumption, potential for renewables, and current investment flows.
+
+
 #### [Loan Default Prediction of Landing Club](https://github.com/joeywwwu/Loan-Default-Prediction-of-Landing-Club) | _Python, Predictive Model, Scikit-learn_
 - Analyzed Lending Club data to predict borrower repayment and manage loan risk using 5 machine learning models to determine if clients would fully pay or default. Identifying defaulting borrowers with these models helps reduce lender losses.
 
